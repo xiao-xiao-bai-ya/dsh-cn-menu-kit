@@ -6,6 +6,12 @@
   <img src="./docs/images/popup-cn-list.png" alt="技能中文列表" width="720" />
 </p>
 
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/df1b68ec-fcaa-42f9-8010-4fedcc6c61d2" />
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/86cd5d04-424d-4ece-9a68-ed64d9ae13ce" />
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/8e6a4c37-99ec-4810-a494-8ec549f67f42" />
+
+
+
 **DeepSeek Harness（DSH）技能与命令的中文增强插件**——让 `/` 菜单与「+」面板里的技能带上中文标题、支持中文搜索与悬浮详情，命令与技能的顺序都可以**自由拖拽**，常用的永远在最上面。
 
 纯客户端插件，零侵入：不改任何官方文件，卸载即完全还原。
