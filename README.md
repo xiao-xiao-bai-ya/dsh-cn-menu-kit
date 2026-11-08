@@ -6,9 +6,15 @@
   <img src="./docs/images/popup-cn-list.png" alt="技能中文列表" width="720" />
 </p>
 
-<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/df1b68ec-fcaa-42f9-8010-4fedcc6c61d2" />
-<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/86cd5d04-424d-4ece-9a68-ed64d9ae13ce" />
-<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/8e6a4c37-99ec-4810-a494-8ec549f67f42" />
+<img width="1052" height="825" alt="image" src="https://github.com/user-attachments/assets/76b15c95-97c2-4376-a0df-212c5ce554a1" />
+<img width="1706" height="719" alt="image" src="https://github.com/user-attachments/assets/ed0ecc3f-af62-46c6-9d07-9ce71045d9d8" />
+![Uploading image.png…]()
+
+
+
+<img width="1026" height="815" alt="image" src="https://github.com/user-attachments/assets/21ebf96b-13bf-41d4-b9ff-4ec2792f181d" />
+<img width="842" height="1250" alt="image" src="https://github.com/user-attachments/assets/79622ddf-8b18-49a9-9ca7-50a86b7f44aa" />
+
 
 
 
