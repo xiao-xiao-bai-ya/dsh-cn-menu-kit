@@ -2,10 +2,6 @@
 
 [简体中文](./README.md) · [English](./README.en.md)
 
-<p align="center">
-  <img src="./docs/images/popup-cn-list.png" alt="技能中文列表" width="720" />
-</p>
-
 <img width="1052" height="825" alt="image" src="https://github.com/user-attachments/assets/76b15c95-97c2-4376-a0df-212c5ce554a1" />
 <img width="1706" height="719" alt="image" src="https://github.com/user-attachments/assets/ed0ecc3f-af62-46c6-9d07-9ce71045d9d8" />
 ![Uploading image.png…]()
@@ -30,10 +26,6 @@
 - **排序面板**：「+」面板新增「技能排序」「命令排序」两个入口，镜像菜单两区（添加/指令）结构，分区内拖拽
 - **顺序持久化**：保存在本机，重启保留；「+」菜单与 `/` 菜单共用同一份顺序
 - **中文技能标题从哪来**：把 SKILL.md 的 `description` 写成 `中文标题——描述` 的形式即可（见下文约定），无此前缀的技能自动回退显示英文名，完全不影响使用
-
-<p align="center">
-  <img src="./docs/images/menu-entry.png" alt="命令菜单中的入口" width="620" />
-</p>
 
 ## 📦 安装
 
