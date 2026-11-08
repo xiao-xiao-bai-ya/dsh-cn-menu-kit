@@ -1,0 +1,62 @@
+{
+  "name": "dsh-cn-menu-kit",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 技能与命令的中文增强：技能中文标题列表、中文搜索、悬浮详情、拖拽排序（菜单内直接拖 + 排序面板）、命令菜单条目排序 · Chinese titles, search, hover details and drag-to-reorder for DSH skills and commands",
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "cordis",
+    "skill",
+    "slash-command",
+    "chinese",
+    "drag-and-drop",
+    "reorder"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "小小白",
+    "url": "https://github.com/xiao-xiao-bai-ya"
+  },
+  "homepage": "https://github.com/xiao-xiao-bai-ya/dsh-cn-menu-kit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiao-xiao-bai-ya/dsh-cn-menu-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiao-xiao-bai-ya/dsh-cn-menu-kit/issues"
+  },
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "docs/images",
+    "README.md",
+    "README.en.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "engines": {
+      "dsh": ">=0.2.2-rc.1"
+    },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-api-session-controller",
+        "@deepseek-ai/dsh-api-remotes",
+        "@deepseek-ai/dsh-client-ui-input-trigger",
+        "@deepseek-ai/dsh-client-ui-commands"
+      ]
+    }
+  }
+}

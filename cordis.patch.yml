@@ -1,0 +1,5 @@
+# dsh-cn-menu-kit — bundle patch.
+# 注册宿主侧占位服务（客户端通过 ModuleLoader 挂载 / 触发源与命令贡献）。
+- insert:
+    - id: cn-menu-kit
+      name: 'dsh-cn-menu-kit'
